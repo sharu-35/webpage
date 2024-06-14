@@ -1,0 +1,37 @@
+body{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+.about{
+background-image: url(./img/images.jpeg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+padding: 340px;
+}
+nav{
+    position: fixed;
+}
+.imageprofile{
+justify-items: center;
+}
+.css{
+    height:160px;
+    width: 100%;
+}
+.J-QUARRY{
+    height: 160px;
+    width: 50%;
+}
+#ABOUT {
+    padding: 150px;
+}
+#SKILL{
+    padding: 150px;
+}
+#CONTACT{
+    padding: 150px;
+}
+button{
+    text-decoration: none;
+}
